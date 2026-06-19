@@ -1,5 +1,114 @@
-# 💫 About Me:
-👋 Hi, I’m @JibanLimbu64<br>👀 I’m interested in ...<br>🌱 I’m currently learning ...<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me ...<br>😄 Pronouns: ...<br>⚡ Fun fact: ...
+# 👋 Hi, I'm Jiban Limbu
+
+🚀 **Full-Stack Developer | Content Creator | Tech Enthusiast from Nepal**
+
+I am passionate about building modern web applications, cloud solutions, and innovative digital products. I enjoy exploring new technologies, creating impactful projects, and sharing knowledge through content creation.
+
+## 🌟 About Me
+
+* 🔭 Currently working on Full-Stack Web Development Projects
+* 🌱 Learning Advanced Cloud Computing, AI Integration & System Design
+* 💻 Skilled in Web Development, Databases, and Cloud Technologies
+* 🤝 Open to collaborating on Open Source and Innovative Tech Projects
+* 🎯 Goal: Build scalable software solutions and contribute to the global tech community
+* 🎥 Content Creator interested in Technology, Programming, and Digital Innovation
+* ⚡ Fun Fact: I enjoy turning ideas into real-world applications and solving challenging problems
+
+---
+
+## 🌐 Connect With Me
+
+* 📘 Facebook: https://facebook.com/iamjibanlimbu
+* 📸 Instagram: https://instagram.com/zeewan.limbu
+* ▶️ YouTube: https://youtube.com/@Official_JibanLimbu
+* 📧 Email: [jibanlimbuofficial@gmail.com](mailto:jibanlimbuofficial@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+
+C • C++ • Java • JavaScript • TypeScript • PHP • Swift
+
+### Frontend Development
+
+HTML5 • CSS3 • JavaScript • jQuery • React Router
+
+### Backend Development
+
+Node.js • PHP • Apache
+
+### Databases
+
+MongoDB • MySQL • SQLite • Firebase
+
+### Cloud & DevOps
+
+AWS • Google Cloud • Oracle Cloud • Cloudflare • Vercel
+
+### Data Science & AI
+
+TensorFlow • Pandas
+
+### Creative Tools
+
+Adobe Premiere Pro • Adobe After Effects • Adobe Acrobat Reader
+
+---
+
+## 🚀 Featured Projects
+
+### 🏗️ Civil Engineering Slab Design Web App
+
+A web-based engineering calculator that automates slab design calculations, validation, optimization, and report generation for civil engineering applications.
+
+### 🌐 Full-Stack Web Applications
+
+Building responsive and scalable web solutions using modern frontend and backend technologies.
+
+### ☁️ Cloud Deployment Solutions
+
+Deploying and managing applications using AWS, Google Cloud, Vercel, and Cloudflare.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JibanLimbu64&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JibanLimbu64&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JibanLimbu64&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+* 🌟 Open Source Contributor
+* 💡 Full-Stack Development Enthusiast
+* ☁️ Cloud Computing Learner
+* 🎥 Technology Content Creator
+* 🚀 Lifelong Learner
+
+---
+
+## 📈 Profile Views
+
+![](https://visitcount.itsvg.in/api?id=JibanLimbu64\&icon=5\&color=6)
+
+---
+
+### 💬 Quote
+
+> "Code is not just about solving problems; it's about creating possibilities."
+
 
 
 ## 🌐 Socials:
