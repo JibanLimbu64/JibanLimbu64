@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Jiban Limbu
+_# 👋 Hi, I'm Jiban Limbu
 
-🚀 **Full-Stack Developer | Content Creator | Tech Enthusiast from Nepal**
+🚀 **Full-Stack Developer | AI & ML Learner  | Tech Enthusiast from Nepal**
 
 I am passionate about building modern web applications, cloud solutions, and innovative digital products. I enjoy exploring new technologies, creating impactful projects, and sharing knowledge through content creation.
 
@@ -127,4 +127,6 @@ Deploying and managing applications using AWS, Google Cloud, Vercel, and Cloudfl
 ---
 [![](https://visitcount.itsvg.in/api?id=JibanLimbu64&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+_
