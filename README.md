@@ -1,132 +1,159 @@
-_# 👋 Hi, I'm Jiban Limbu
+Hi, I'm Jiban Limbu!
 
-🚀 **Full-Stack Developer | AI & ML Learner  | Tech Enthusiast from Nepal**
+Developer from Nepal | Exploring AI, Web Development & Technology
 
-I am passionate about building modern web applications, cloud solutions, and innovative digital products. I enjoy exploring new technologies, creating impactful projects, and sharing knowledge through content creation.
+Hi there! I'm Jiban, a student and developer from Nepal who loves learning about technology and building things with code.
 
-## 🌟 About Me
+I'm still on my journey of becoming a better developer, and I enjoy trying new ideas, solving problems, and turning what I learn into real projects. From building websites to experimenting with AI, there's always something new I'm excited to explore.
 
-* 🔭 Currently working on Full-Stack Web Development Projects
-* 🌱 Learning Advanced Cloud Computing, AI Integration & System Design
-* 💻 Skilled in Web Development, Databases, and Cloud Technologies
-* 🤝 Open to collaborating on Open Source and Innovative Tech Projects
-* 🎯 Goal: Build scalable software solutions and contribute to the global tech community
-* 🎥 Content Creator interested in Technology, Programming, and Digital Innovation
-* ⚡ Fun Fact: I enjoy turning ideas into real-world applications and solving challenging problems
+I don't believe in knowing everything. I believe in staying curious, learning from mistakes, and getting a little better every day.
 
 ---
 
-## 🌐 Connect With Me
+A Little About Me
 
-* 📘 Facebook: https://facebook.com/iamjibanlimbu
-* 📸 Instagram: https://instagram.com/zeewan.limbu
-* ▶️ YouTube: https://youtube.com/@Official_JibanLimbu
-* 📧 Email: [jibanlimbuofficial@gmail.com](mailto:jibanlimbuofficial@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-### Programming Languages
-
-C • C++ • Java • JavaScript • TypeScript • PHP • Swift
-
-### Frontend Development
-
-HTML5 • CSS3 • JavaScript • jQuery • React Router
-
-### Backend Development
-
-Node.js • PHP • Apache
-
-### Databases
-
-MongoDB • MySQL • SQLite • Firebase
-
-### Cloud & DevOps
-
-AWS • Google Cloud • Oracle Cloud • Cloudflare • Vercel
-
-### Data Science & AI
-
-TensorFlow • Pandas
-
-### Creative Tools
-
-Adobe Premiere Pro • Adobe After Effects • Adobe Acrobat Reader
+- I'm working on web development projects and exploring new ideas.
+- I'm learning more about full-stack development, AI, cloud computing, and software engineering.
+- I enjoy working with different programming languages and finding better ways to solve problems.
+- I'd love to work with other developers, learn from them, and contribute to open-source projects.
+- I'm also interested in cybersecurity and learning how to make software safer.
+- My long-term goal is to become a skilled software engineer and build things that people find useful.
+- I may not know everything today, but I'm always willing to learn something new.
 
 ---
 
-## 🚀 Featured Projects
+Technologies I Work With
 
-### 🏗️ Civil Engineering Slab Design Web App
+These are some of the technologies I've used, explored, or am learning as I grow as a developer.
 
-A web-based engineering calculator that automates slab design calculations, validation, optimization, and report generation for civil engineering applications.
+Programming Languages
 
-### 🌐 Full-Stack Web Applications
+"C" (https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+"C++" (https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+"PHP" (https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+"Swift" (https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-Building responsive and scalable web solutions using modern frontend and backend technologies.
+Frontend Development
 
-### ☁️ Cloud Deployment Solutions
+I enjoy building websites and working on the parts of an application that people see and interact with.
 
-Deploying and managing applications using AWS, Google Cloud, Vercel, and Cloudflare.
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+"React Router" (https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+"jQuery" (https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+Backend Development
+
+I'm interested in understanding how applications work behind the scenes, from handling requests to connecting different parts of a system.
+
+"Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+"PHP" (https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+"Apache" (https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+
+Databases & Backend Services
+
+I'm learning how to store, manage, and work with data to build useful applications.
+
+"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+"SQLite" (https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+"Firebase" (https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+Cloud & Deployment
+
+I'm exploring cloud platforms and learning how to make applications available online.
+
+"AWS" (https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+"Google Cloud" (https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+"Oracle Cloud" (https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+"Cloudflare" (https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+"Vercel" (https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+AI, Machine Learning & Data
+
+AI is one of the areas I'm curious about. I enjoy exploring how it can be used to solve problems and make applications more useful.
+
+"TensorFlow" (https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+Creative & Productivity Tools
+
+I also enjoy exploring digital tools that help with productivity and creative work.
+
+"Adobe Premiere Pro" (https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+"Adobe After Effects" (https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+"Adobe Acrobat Reader" (https://img.shields.io/badge/Acrobat_Reader-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+Things I've Been Building
+
+I like learning through real projects because writing code, making mistakes, and fixing them help me understand things better.
+
+Civil Engineering Slab Design Web App
+
+I'm exploring how web development can be used to make engineering calculations easier. The idea is to help users perform slab design calculations, check input values, and organize the results into useful reports.
+
+What interests me: Engineering, automation, and practical web applications.
+
+AI-Powered Projects
+
+I've explored ideas such as AI chatbots and tools that help users solve mathematical problems. I'm interested in finding simple, useful ways to bring AI into everyday applications.
+
+What interests me: AI integration, APIs, and problem-solving.
+
+Web Development Projects
+
+I enjoy creating websites and experimenting with different ways to build better web experiences. Each project gives me a chance to learn something new about frontend development, backend logic, and databases.
+
+What interests me: Web technologies, responsive design, and application development.
+
+Cloud & Deployment
+
+I'm also learning about hosting and deployment, including how to take an application from my development environment and make it accessible online.
+
+What interests me: Cloud platforms, hosting, and deployment.
+
+You can explore my GitHub repositories to see my projects, experiments, and progress.
+
+---
+
+My GitHub Activity
+
+Here's a look at my GitHub statistics and the languages represented in my public repositories.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JibanLimbu64&show_icons=true&theme=tokyonight" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=JibanLimbu64&show_icons=true&theme=tokyonight&hide_border=true" alt="Jiban's GitHub statistics" />
+</p><p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=JibanLimbu64&theme=tokyonight&hide_border=true" alt="Jiban's GitHub contribution streak" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JibanLimbu64&layout=compact&theme=tokyonight&hide_border=true" alt="Languages in Jiban's public repositories" />
+</p>---
+
+GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JibanLimbu64&theme=tokyonight" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=JibanLimbu64&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub profile trophies" />
+</p>---
+
+Thanks for Stopping By!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JibanLimbu64&layout=compact&theme=tokyonight" />
+  <img src="https://visitcount.itsvg.in/api?id=JibanLimbu64&icon=5&color=6" alt="Profile visitor count" />
+</p>Thanks for taking the time to visit my profile. I'm still learning, experimenting, and figuring things out, and that's what makes this journey exciting.
+
+I believe there's always something new to learn and something better to build. Every project is an opportunity to improve, and every mistake is a chance to understand things a little better.
+
+---
+
+A Thought I Believe In
+
+«"You don't have to know everything to get started. You just have to be willing to learn."»
+
+<p align="center">
+  <b>Keep Learning · Keep Building · Keep Growing</b>
 </p>
-
----
-
-## 🏆 Achievements
-
-* 🌟 Open Source Contributor
-* 💡 Full-Stack Development Enthusiast
-* ☁️ Cloud Computing Learner
-* 🎥 Technology Content Creator
-* 🚀 Lifelong Learner
-
----
-
-## 📈 Profile Views
-
-![](https://visitcount.itsvg.in/api?id=JibanLimbu64\&icon=5\&color=6)
-
----
-
-### 💬 Quote
-
-> "Code is not just about solving problems; it's about creating possibilities."
-
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamjibanlimbu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeewan.limbu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Official_JibanLimbu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jibanlimbuofficial@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JibanLimbu64&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JibanLimbu64&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JibanLimbu64&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JibanLimbu64&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=JibanLimbu64&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-_
